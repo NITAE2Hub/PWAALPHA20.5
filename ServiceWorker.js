@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-APP-Pp-egua-1.0";
 const contentToCache = [
-    "Build/ALpha20pwa.loader.js",
-    "Build/ALpha20pwa.framework.js",
-    "Build/ALpha20pwa.data",
-    "Build/ALpha20pwa.wasm",
+    "Build/PORTPAIDEGUA.loader.js",
+    "Build/PORTPAIDEGUA.framework.js",
+    "Build/PORTPAIDEGUA.data",
+    "Build/PORTPAIDEGUA.wasm",
     "TemplateData/style.css"
 
 ];
